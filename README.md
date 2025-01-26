@@ -42,6 +42,16 @@
    ```bash
    cd grove-garden
 
+3. **Create a Virtual Environment**
+
+   ```bash
+   python -m venv playlist
+
+4. **Activate the Virtual Environment**
+   
+   ```bash
+   .\playlist\Scripts\activate
+
 3. **Install the required dependencies:**
 
    ```bash
