@@ -41,3 +41,31 @@
 
    ```bash
    cd grove-garden
+
+3. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Create a directory for uploads if it doesn't exist:**
+
+   ```bash
+   mkdir static/uploads
+
+7. **Run the Flask app:**
+
+   ```bash
+   python app.py
+
+8. **Open your web browser and go to:**
+
+   ```bash
+   http://127.0.0.1:5000
+
+## Contributing
+
+Feel free to fork this project, make improvements, and create pull requests. If you encounter any issues or have suggestions, please open an issue in the repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
